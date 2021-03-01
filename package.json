@@ -20,7 +20,7 @@
     "react-three-fiber": "^4.2.4",
     "react-three-gui": "^0.1.5",
     "react-zdog": "^1.0.11",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "typescript": "^3.9.3",
     "use-clippy": "^1.0.6",
     "zdog": "^1.1.2"
